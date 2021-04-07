@@ -1,0 +1,54 @@
+.img-preview {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.sizeList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 10em;
+}
+.sizeList-item {
+  display: inline-flex;
+  margin-bottom: 1em;
+  margin-right: 3em;
+}
+.quantity {
+  margin-left: 0.5em;
+  border: 1px solid;
+}
+
+.AddForm {
+  border-radius: 50%;
+  background-color: green;
+  color: white;
+  font-weight: "bold";
+  float: right;
+  padding: 1em;
+}
+.RemoveForm {
+  border-radius: 50%;
+  background-color: red;
+  color: white;
+  font-weight: "bold";
+  float: right;
+  margin-left: 1em;
+  padding: 1em;
+}
+
+.box {
+  margin-bottom: 10px;
+}
+.btn-box {
+  margin-left: 10px;
+  width: 200px;
+  display: inline-block;
+}
+.ml10 {
+  margin-left: 10px;
+}
+.mr10 {
+  margin-right: 10px;
+}

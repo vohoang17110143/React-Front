@@ -1,0 +1,19 @@
+export const GET_CATEGORIES= 'GET_CATEGORIES'
+export const ADD_CATEGORIES= 'ADD_CATEGORIES'
+export const DELETE_CATEGORIES= 'DELETE_CATEGORIES'
+
+export const GET_BRANDS= 'GET_BRANDS'
+export const ADD_BRANDS= 'ADD_BRANDS'
+
+export const DELETE_BRANDS= 'DELETE_BRANDS'
+export const SEARCH_BRANDS= 'SEARCH_BRANDS'
+
+export const GET_COLORS = 'GET_COLORS'
+export const ADD_COLOR ='ADD_COLOR'
+
+export const GET_PRODUCT ='GET_PRODUCT'
+export const ADD_PRODUCT ='ADD_PRODUCT'
+
+export const GET_SIZE ='GET_PRODUCT'
+export const MARK_SIZE ='MARK_SIZE'
+export const ADD_SIZE ='ADD_SIZE'

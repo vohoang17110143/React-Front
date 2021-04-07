@@ -1,0 +1,14 @@
+.colorList {
+  list-style: none;
+  display: inline-flex;
+  margin-right: 0%;
+}
+
+.colorList li {
+  margin-right: 0px;
+}
+
+.colorList li:before {
+  content: "+";
+  margin-right: 4px;
+}
